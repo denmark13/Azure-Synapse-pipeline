@@ -1,0 +1,2 @@
+The pipeline efficiently integrates data from multiple sources, including Azure Blob Storage and SQL Database, and orchestrates end-to-end processes.
+It leverages Synapse Data Flows for basic calculation and aggregation. These pipelines are also automated with triggers and scheduling to support seamless, real-time, or batch processing. The screenshot also demonstrates monitoring features, such as activity runs, data lineage, and detailed logs, ensuring robust performance and troubleshooting capabilities.
